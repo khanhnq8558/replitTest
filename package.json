@@ -1,5 +1,5 @@
 {
-	"name": "fcc-learn-npm-package-json",
+	"name": "quoc-khanh",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,6 +9,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/khanhnq8558/replitTest"
 	}
 }
